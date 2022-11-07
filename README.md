@@ -1,4 +1,4 @@
-# example_for_intership
+# example_of_my_works
 Here is some examples of my codes. 
 
 Half of them - My job for STELLARIUM team. It is system of movement and switching between two characters (check script status "passive" and "play");
